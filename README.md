@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Murat
-- 👀 I’m interested in Blockchain development, Cyber Security, Blockchain Seucirty
+- 👀 I’m interested in Blockchain development, Cyber Security, Blockchain Security
 - 🌱 I’m currently learning Solidty, Foundry and Nansen
 - 💞️ I’m looking to collaborate on work regarding developing blockchain security solutions
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/murat-saglam/) [Twitter](https://twitter.com/MuratUSaglam)
