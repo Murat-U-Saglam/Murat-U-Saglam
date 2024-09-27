@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Murat
-- 👀 I’m interested in Machine Learning, Blockchain and Cyber Security
-- 🌱 I’m currently learning Solidity Auditing, Tensorflow, GCP.
+- 👀 I’m interested in Data, Blockchain and analytics
+- 🌱 I’m currently Data engineering tools, and visualisations.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/murat-saglam/) [Twitter](https://twitter.com/MuratUSaglam)
 - 🧑🏻‍💻 If you like Hackathons or CTFs. Reach out!
 
